@@ -1,0 +1,13 @@
+{
+    "name": "Remote Decks",
+    "package": "924929499",
+    "ankiweb_id": "924929499",
+    "author": "RisingOrange",
+    "version": "1.2.2",
+    "homepage": "",
+    "conflicts": [
+        "remote_decks"
+    ],
+    "mod": 1668519445,
+    "min_point_version": 36
+}

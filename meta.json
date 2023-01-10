@@ -1,0 +1,1 @@
+{"mod": 1668519445, "min_point_version": 36, "name": "Remote Decks", "conflicts": ["remote_decks"], "disabled": false, "max_point_version": 50, "branch_index": 0, "update_enabled": true, "config": {"sync_shortcut": "Ctrl+Shift+Q", "add_deck_shortcut": "Ctrl+Shift+W", "remove_deck_shortcut": "Ctrl+Shift+E", "remote-decks": {}}}
